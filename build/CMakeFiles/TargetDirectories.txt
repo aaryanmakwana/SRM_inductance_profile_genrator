@@ -1,0 +1,3 @@
+/Users/apple/documents/Programming/C++/SRMinductanceprofile/build/CMakeFiles/App.dir
+/Users/apple/documents/Programming/C++/SRMinductanceprofile/build/CMakeFiles/edit_cache.dir
+/Users/apple/documents/Programming/C++/SRMinductanceprofile/build/CMakeFiles/rebuild_cache.dir
